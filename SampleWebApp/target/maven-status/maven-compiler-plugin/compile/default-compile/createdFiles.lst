@@ -1,0 +1,7 @@
+com\kreditmedia\GlassdoorClient.class
+com\kreditmedia\LinkedinClient.class
+com\kreditmedia\Queries.class
+com\kreditmedia\User.class
+com\kreditmedia\GlassdoorAPI.class
+com\kreditmedia\LinkedinAPI.class
+com\kreditmedia\ControllerMain.class
